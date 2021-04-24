@@ -1,0 +1,19 @@
+code	name	lessons	max_hours_per_week	max_hours_per_day
+2001	John Papajohn	(1031,1032,1033)	25	5
+2002	George Hatzigeorge	(1001,1002,1003)	20	5
+2003	Vasilis Vasiliadis	(1011,1012,1013)	25	5
+2004	Andreas Andreou	(1041,1042,1043)	19	4
+2005	Stella Douka	(1021,1022,1023)	25	5
+2006	Maria Papadopoulou	(1071,1072,1073)	16	4
+2007	Panos Katos	(1061,1062,1063)	25	5
+2008	Xrysa Anastasiou	(1001,1002,1003)	16	5
+2009	Stefanos Meidanis	(1001,1002,1003,1011,1061,1041)	21	5
+2010	Thanaras Makris	(1021,1022,1023,1081)	23	5
+2011	Katerina Vellou	(1092)	17	4
+2012	Michalis Vazaios	(1071,1072,1073)	23	4
+2013	Vasilis Ballas	(1021,1022,1023)	19	4
+2014	Giorgis Stefanou	(1103)	18	3
+2015	Paris Vassalos	(1001,1002,1003)	18	5
+2016	Geo Pap	(1051,1052,1053)	20	5
+2017	Xrysoula Dikonimaki	(1041,1042,1043)	23	5
+2018	Vasilis Vaiadis	(1011,1012,1013)	25	5
